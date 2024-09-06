@@ -1,24 +1,15 @@
 
-## 🚀 Sobre mim
- Me chamo Breno, tenho 22 anos. Cursei Téc. ADM e atualmente estudo formatação front-end no Senac.
+### 🚀 Sobre Mim
+Olá! Sou Breno, tenho 22 anos e sou apaixonado por tecnologia. Cursei Técnico em Administração e atualmente estou me aprofundando em desenvolvimento front-end no Senac.
 
-## 🛠 Habilidades
-Desenvolvendo conhecimento sobre HTML, CSS e JavaScript.
+### 🛠 Habilidades
+- **Linguagens**: HTML, CSS, JavaScript
+- **Desenvolvimento**: Foco em criação de interfaces responsivas e atrativas.
 
-
-## Outras seções comuns em perfis do GitHub
-👩‍💻 Trabalho atualmente na Mcassab.
-
-🧠 Estou aprendendo formatação front-end
-
-👯‍♀️ Procuro colaborar com o trabalho em grupo
-
-🤔 Procuro ajuda com plataformas de ensino.
-
-📫 Como entrar em contato comigo através: https://github.com/brenkjk1
+- ### 💼 Experiência
+Atualmente trabalho na Mcassab, onde aplico meus conhecimentos e continuo a aprender no dia a dia.
 
 😄 Pronomes: ele/dele
-
 ⚡️ Fatos engraçados: tenho 3 mamilos 😁
 
 
