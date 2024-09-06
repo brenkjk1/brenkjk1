@@ -1,3 +1,4 @@
+
 ## 🚀 Sobre mim
  Me chamo Breno, tenho 22 anos. Cursei Téc. ADM e atualmente estudo formatação front-end no Senac.
 
@@ -22,3 +23,9 @@ Desenvolvendo conhecimento sobre HTML, CSS e JavaScript.
 
 
 ![Logo](https://cdn-icons-png.flaticon.com/512/4668/4668040.png)
+
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/breno-silva-lima?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brenkjk?igsh=aHR4dmpubHRvY2xk&utm_source=qr
+)
