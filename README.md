@@ -1,16 +1,24 @@
-## Hi there 👋
+## 🚀 Sobre mim
+ Me chamo Breno, tenho 22 anos. Cursei Téc. ADM e atualmente estudo formatação front-end no Senac.
 
-<!--
-**brenkjk1/brenkjk1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 Habilidades
+Desenvolvendo conhecimento sobre HTML, CSS e JavaScript.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Outras seções comuns em perfis do GitHub
+👩‍💻 Trabalho atualmente na Mcassab.
+
+🧠 Estou aprendendo formatação front-end
+
+👯‍♀️ Procuro colaborar com o trabalho em grupo
+
+🤔 Procuro ajuda com plataformas de ensino.
+
+📫 Como entrar em contato comigo através: https://github.com/brenkjk1
+
+😄 Pronomes: ele/dele
+
+⚡️ Fatos engraçados: tenho 3 mamilos 😁
+
+
+![Logo](https://cdn-icons-png.flaticon.com/512/4668/4668040.png)
